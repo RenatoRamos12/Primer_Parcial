@@ -1,0 +1,14 @@
+.et1
+{ 
+    background: blue;
+    color: yellow;
+    font-size: 80 px;
+    font-weight: bold;
+ }
+ .et2
+ { 
+    background: orchid;
+    color: green;
+    font-size: 80 px;
+    font-weight: lighter;
+ }
